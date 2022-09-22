@@ -17,13 +17,13 @@ header{
 
     background-color: black;
     height: 66px;
-    border:#b0e0e6;
+    border:black;
     border-radius: 10px;
 }
 
 .container{
     Width: 375px;
-    background-color:#b0e0e6;
+    background-color:#75727a;
     border-radius: 10px;
     border: black;
     margin: 0 auto;
@@ -34,7 +34,7 @@ header{
 
 body{
      
-    background-color: #e0ffff;
+    background-color: #f6fcfc;
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center center;
@@ -50,7 +50,7 @@ font-style: normal;
 font-weight: normal;
 font-size: 24px;
 line-height: 18px;
-color: #e0ffff;
+color: #f6fcfc;
 border-radius: 10px;
 text-align: center;
 padding-top: 25px;
